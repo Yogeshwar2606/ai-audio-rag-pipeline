@@ -179,4 +179,4 @@ Feel free to submit issues, feature requests, or pull requests to improve the sy
 
 ## Support
 
-For questions or issues, please check the troubleshooting section above or create an issue in the project repository. 
+For questions or issues, please check the troubleshooting section above or create an issue in the project repository.
